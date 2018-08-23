@@ -9229,20 +9229,3 @@ a.sidr-class-toggle-sidr-close i {
     display: none !important;
   }
 }
-.form {
-  position: relative;
-  left: 50%;
-  margin-left: -300px;
-  margin-top: 10%;
-  width: 600px;
-  height: 300px;
-  padding: 10px;
-  border: 1px solid #1f1f1f1f;
-  background-color: #1f1f1f1f;
-  border-radius: 5px 5px 5px 5px;
-  display: inline-block;
-}
-
-.form .label {
-  width: 260px;
-}
